@@ -1,5 +1,5 @@
 print """
-TEXT To HEX Encode
+TEXT To HEX Converter
 
 Coded By Afrizal F.A
 """
